@@ -3,6 +3,6 @@
 <div align="center">
 
 #### Hello World! 👋 <br>
-with love from Happy 19 years old front-end developer 😊
+with love from a completely ordinary front-end developer base on Earth 🌎
 
 </div>

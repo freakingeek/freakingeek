@@ -1,4 +1,4 @@
-[![Banner](./assets/images/banner.png)](https://github.com/sttatusx)
+[![Banner](./assets/images/banner.png)](https://github.com/freakingeek)
 
 <div align="center">
 
